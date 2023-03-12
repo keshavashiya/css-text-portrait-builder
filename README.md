@@ -1,8 +1,8 @@
-# CSS Text Portrait Builder [![Mentioned in Awesome CSS Text Portrait](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/warengonzaga/awesome-css-text-portrait)
+# CSS Text Portrait Builder [![Mentioned in Awesome CSS Text Portrait](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/keshavashiya/awesome-css-text-portrait)
 
-[![created by](https://img.shields.io/badge/created%20by-Waren%20Gonzaga-blue.svg?longCache=true&style=flat-square)](https://github.com/warengonzaga) [![release](https://img.shields.io/github/release/warengonzaga/css-text-portrait-builder.svg?style=flat-square)](https://github.com/warengonzaga/css-text-portrait-builder/releases) [![star](https://img.shields.io/github/stars/warengonzaga/css-text-portrait-builder.svg?style=flat-square)](https://github.com/warengonzaga/css-text-portrait-builder/stargazers) [![license](https://img.shields.io/github/license/warengonzaga/css-text-portrait-builder.svg?style=flat-square)](https://github.com/warengonzaga/css-text-portrait-builder/blob/main/license)
+[![created by](https://img.shields.io/badge/created%20by-Waren%20Gonzaga-blue.svg?longCache=true&style=flat-square)](https://github.com/keshavashiya) [![release](https://img.shields.io/github/release/keshavashiya/css-text-portrait-builder.svg?style=flat-square)](https://github.com/keshavashiya/css-text-portrait-builder/releases) [![star](https://img.shields.io/github/stars/keshavashiya/css-text-portrait-builder.svg?style=flat-square)](https://github.com/keshavashiya/css-text-portrait-builder/stargazers) [![license](https://img.shields.io/github/license/keshavashiya/css-text-portrait-builder.svg?style=flat-square)](https://github.com/keshavashiya/css-text-portrait-builder/blob/main/license)
 
-[![repo banner](.github/img/repo_banner.png)](https://github.com/warengonzaga/css-text-portrait-builder)
+[![repo banner](.github/img/repo_banner.png)](https://github.com/keshavashiya/css-text-portrait-builder)
 
 A trending pure CSS text portrait builder for your loved ones. 🥰 You don't need to waste your time just to create it from scratch and spend time working on its CSS sorcery. Here's the builder just for you! ✨
 
@@ -14,7 +14,7 @@ This **Nayeon CSS Text Portrait** below is created using CSS Text Portrait Build
 
 ### ✨Community Showcase
 
-- [View more showcase here](https://github.com/WarenGonzaga/css-text-portrait-builder/discussions/categories/showcase).
+- [View more showcase here](https://github.com/keshavashiya/css-text-portrait-builder/discussions/categories/showcase).
 
 ## ⚡ Features
 
@@ -54,7 +54,7 @@ Let's get started with the instant setup and build. Proceed to the requirements 
 
 Meet the requirements? Click the Gitpod button below to get started!
 
-[![open in gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/warengonzaga/css-text-portrait-builder)
+[![open in gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/keshavashiya/css-text-portrait-builder)
 
 ## 🔨 Build Steps (Gitpod)
 
@@ -71,7 +71,7 @@ Meet the requirements? Click the Gitpod button below to get started!
 
 ## 📡 Hosting
 
-To learn more about hosting your builds check out the [community discussion](https://github.com/warengonzaga/css-text-portrait-builder/discussions).
+To learn more about hosting your builds check out the [community discussion](https://github.com/keshavashiya/css-text-portrait-builder/discussions).
 
 ## 🎯 Contributing
 
@@ -81,15 +81,15 @@ Read the project's [contributing guide](./CONTRIBUTING.md) for more info.
 
 ## 💬 Discussions
 
-For any questions, suggestions, ideas, or simply you want to share your experience in using this project, feel free to share and discuss it to the [community](https://github.com/warengonzaga/css-text-portrait-builder/discussions)!
+For any questions, suggestions, ideas, or simply you want to share your experience in using this project, feel free to share and discuss it to the [community](https://github.com/keshavashiya/css-text-portrait-builder/discussions)!
 
 ## 🐛 Issues
 
-If you're facing a problem in using CSS Text Portrait Builder please [check the community FAQs first](https://github.com/WarenGonzaga/css-text-portrait-builder/discussions?discussions_q=label%3Afaq), if your issue is a potential bug I would suggest to [create an issue here](https://github.com/warengonzaga/css-text-portrait-builder/issues/new). I'm here to help you! 😇
+If you're facing a problem in using CSS Text Portrait Builder please [check the community FAQs first](https://github.com/keshavashiya/css-text-portrait-builder/discussions?discussions_q=label%3Afaq), if your issue is a potential bug I would suggest to [create an issue here](https://github.com/keshavashiya/css-text-portrait-builder/issues/new). I'm here to help you! 😇
 
 ## 🍀 Sponsor
 
-> Love what I do? Send me some [love](https://github.com/sponsors/warengonzaga) or [coffee](https://buymeacoff.ee/warengonzaga)!? 💖☕
+> Love what I do? Send me some [love](https://github.com/sponsors/keshavashiya) or [coffee](https://buymeacoff.ee/keshavashiya)!? 💖☕
 >
 > Can't send love or coffees? 😥 Nominate me for a **[GitHub Star](https://stars.github.com/nominate)** instead!
 > Your support will help me to continue working on open-source projects like this. 🙏😇
@@ -104,10 +104,10 @@ CSS Text Portrait Builder is licensed under [The MIT License](https://opensource
 
 ## 📝 Author
 
-CSS Text Portrait Builder is created by **[Waren Gonzaga](https://github.com/warengonzaga)**, with the help of awesome [contributors](https://github.com/warengonzaga/css-text-portrait-builder/graphs/contributors).
+CSS Text Portrait Builder is created by **[Keshav Ashiya](https://github.com/keshavashiya)**, with the help of awesome [contributors](https://github.com/keshavashiya/css-text-portrait-builder/graphs/contributors).
 
-[![contributors](https://contrib.rocks/image?repo=warengonzaga/css-text-portrait-builder)](https://github.com/warengonzaga/css-text-portait-builder/graphs/contributors)
+[![contributors](https://contrib.rocks/image?repo=keshavashiya/css-text-portrait-builder)](https://github.com/keshavashiya/css-text-portait-builder/graphs/contributors)
 
 ---
 
-💻💖☕ by [Waren Gonzaga](https://warengonzaga.com) | [He is Awesome](https://www.youtube.com/watch?v=HHrxS4diLew&t=44s) 🙏
+💻💖☕ by [Keshav Ashiya](https://keshavashiya.github.io) 🙏
